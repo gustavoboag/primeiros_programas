@@ -1,0 +1,41 @@
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$ nano ./nome.py
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$ nano calculadora.sh
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$ chmod +x ./calculadora.sh
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$ ll
+total 28
+drwxr-xr-x 2 gustavo gustavo 4096 Apr  8 22:48 ./
+drwxr-xr-x 6 gustavo gustavo 4096 Apr  8 22:21 ../
+-rw-r--r-- 1 gustavo gustavo 1144 Apr  8 22:42 calculadora.py
+-rwxr-xr-x 1 gustavo gustavo  119 Apr  8 22:48 calculadora.sh*
+-rwxr-xr-x 1 gustavo gustavo   65 Apr  8 22:35 nome.py*
+-rwxr-xr-x 1 gustavo gustavo  100 Apr  8 22:32 python_script.sh*
+-rw-r--r-- 1 gustavo gustavo   50 Apr  8 22:42 untitled1.py:Zone.Identifier
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$ ./calculadora.sh
+iniciando o script
+abrindo calculadora
+python3: can't open file '/home/gustavo/modulo1/pytho/calculadora.py': [Errno 2] No such file or directory
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$ nano ./calculadora.sh
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$ chmod +x ./calculadora.py
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$ ./calculadora.sh
+iniciando o script
+abrindo calculadora
+python3: can't open file '/home/gustavo/modulo1/pytho/calculadora.py': [Errno 2] No such file or directory
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$ ll
+total 28
+drwxr-xr-x 2 gustavo gustavo 4096 Apr  8 22:50 ./
+drwxr-xr-x 6 gustavo gustavo 4096 Apr  8 22:21 ../
+-rwxr-xr-x 1 gustavo gustavo 1144 Apr  8 22:42 calculadora.py*
+-rwxr-xr-x 1 gustavo gustavo  119 Apr  8 22:48 calculadora.sh*
+-rwxr-xr-x 1 gustavo gustavo   65 Apr  8 22:35 nome.py*
+-rwxr-xr-x 1 gustavo gustavo  100 Apr  8 22:32 python_script.sh*
+-rw-r--r-- 1 gustavo gustavo   50 Apr  8 22:42 untitled1.py:Zone.Identifier
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$ ./calculadora.sh
+iniciando o script
+abrindo calculadora
+calculadora simples
+as operações são: soma, subtração, multiplicação, divisão e resto da divisão
+digite a operação que deseja realizar: 10
+digite o primeiro numero: 20
+digite o segundo numero: 20
+operação inválida
+gustavo@gustavo-boa-da-gama-2:~/modulo1/python$
