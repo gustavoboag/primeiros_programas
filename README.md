@@ -9,7 +9,7 @@ cd /caminho/para/seu/script
 chmod +x calculadora.sh
 
 # Forma 1 – Usando ./
-./nome_do_arquivo.sh
+./calculadora.sh
 
 # Forma 2 – Usando bash
 bash nome_do_arquivo.sh
