@@ -38,7 +38,7 @@ calculadora simples
 as operações são: soma, subtração, multiplicação, divisão e resto da divisão
 digite a operação que deseja realizar
 por exemplo
-digita :soma
+digita :soma<br>
 digite o primeiro numero: 5<br>
 digite o segundo numero: 3<br>
 o resultado da soma dos dois numeros são: 8.0<br>
