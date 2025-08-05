@@ -39,16 +39,16 @@ as operações são: soma, subtração, multiplicação, divisão e resto da div
 digite a operação que deseja realizar
 por exemplo
 digita :soma
-digite o primeiro numero: 5
-digite o segundo numero: 3
-o resultado da soma dos dois numeros são: 8.0
+digite o primeiro numero: 5<br>
+digite o segundo numero: 3<br>
+o resultado da soma dos dois numeros são: 8.0<br>
 
  
 
 
 
 
-Lógica de Decisão
+# Lógica de Decisão
 A lógica principal do script usa estruturas condicionais if, elif e else para verificar qual operação foi escolhida
 
 if operacao == "soma":
