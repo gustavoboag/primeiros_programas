@@ -15,9 +15,9 @@ chmod +x calculadora.sh
 bash nome_do_arquivo.sh
 
 # Exemplo completo
-cd ~/meus_scripts
-chmod +x iniciar_calculadora.sh
-./iniciar_calculadora.sh
+cd ~/meus_scripts<br>
+chmod +x iniciar_calculadora.sh<br>
+./iniciar_calculadora.sh<br>
 
 ## execute o script python_script.sh caso não tenha python
 
