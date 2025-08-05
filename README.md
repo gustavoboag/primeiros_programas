@@ -19,8 +19,7 @@ cd ~/meus_scripts
 chmod +x iniciar_calculadora.sh
 ./iniciar_calculadora.sh
 
-
-# execute o script python_script.sh caso não tenha python
+## execute o script python_script.sh caso não tenha python
 
 
 
