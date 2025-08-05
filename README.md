@@ -2,31 +2,31 @@
 
 
 
-#Como Executar um Arquivo .sh
+# Como Executar um Arquivo .sh
 cd /caminho/para/seu/script
 
-#2. Dê permissão de execução ao script (se necessário)
+# 2. Dê permissão de execução ao script (se necessário)
 chmod +x calculadora.sh
 
-#Forma 1 – Usando ./
+# Forma 1 – Usando ./
 ./nome_do_arquivo.sh
 
-#Forma 2 – Usando bash
+# Forma 2 – Usando bash
 bash nome_do_arquivo.sh
 
-#Exemplo completo
+# Exemplo completo
 cd ~/meus_scripts
 chmod +x iniciar_calculadora.sh
 ./iniciar_calculadora.sh
 
 
-#  execute o script python_script.sh caso não tenha python
+# execute o script python_script.sh caso não tenha python
 
 
 
 
 
-#explicação sobre o funcionamento do seu script "calculadora.py"
+# explicação sobre o funcionamento do seu script "calculadora.py"
 
 
 A entrada dos dados é feita utilizando a função input():
